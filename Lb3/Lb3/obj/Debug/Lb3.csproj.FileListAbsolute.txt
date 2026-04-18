@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lb3\Lb3\bin\Debug\Lb3.exe.config
+C:\Users\admin\source\repos\Lb3\Lb3\bin\Debug\Lb3.exe
+C:\Users\admin\source\repos\Lb3\Lb3\bin\Debug\Lb3.pdb
+C:\Users\admin\source\repos\Lb3\Lb3\obj\Debug\Lb3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lb3\Lb3\obj\Debug\Lb3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lb3\Lb3\obj\Debug\Lb3.exe
+C:\Users\admin\source\repos\Lb3\Lb3\obj\Debug\Lb3.pdb
