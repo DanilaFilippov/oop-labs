@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\lb4\lb4\bin\Debug\lb4.exe.config
+C:\Users\admin\source\repos\lb4\lb4\bin\Debug\lb4.exe
+C:\Users\admin\source\repos\lb4\lb4\bin\Debug\lb4.pdb
+C:\Users\admin\source\repos\lb4\lb4\obj\Debug\lb4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lb4\lb4\obj\Debug\lb4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lb4\lb4\obj\Debug\lb4.exe
+C:\Users\admin\source\repos\lb4\lb4\obj\Debug\lb4.pdb
