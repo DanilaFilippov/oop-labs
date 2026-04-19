@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.Form1.resources
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.Properties.Resources.resources
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lb_13\lb_13\bin\Debug\lb_13.exe.config
+C:\Users\admin\source\repos\lb_13\lb_13\bin\Debug\lb_13.exe
+C:\Users\admin\source\repos\lb_13\lb_13\bin\Debug\lb_13.pdb
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.exe
+C:\Users\admin\source\repos\lb_13\lb_13\obj\Debug\lb_13.pdb
