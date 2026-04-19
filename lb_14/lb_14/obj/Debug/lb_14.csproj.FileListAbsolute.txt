@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.Properties.Resources.resources
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lb_14\lb_14\bin\Debug\lb_14.exe.config
+C:\Users\admin\source\repos\lb_14\lb_14\bin\Debug\lb_14.exe
+C:\Users\admin\source\repos\lb_14\lb_14\bin\Debug\lb_14.pdb
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.Form1.resources
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.exe
+C:\Users\admin\source\repos\lb_14\lb_14\obj\Debug\lb_14.pdb
