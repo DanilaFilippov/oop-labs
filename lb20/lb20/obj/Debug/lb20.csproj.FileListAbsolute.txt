@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\lb20\lb20\bin\Debug\lb20.exe.config
+C:\Users\admin\source\repos\lb20\lb20\bin\Debug\lb20.exe
+C:\Users\admin\source\repos\lb20\lb20\bin\Debug\lb20.pdb
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20_MarkupCompile.cache
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20_MarkupCompile.lref
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.g.resources
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.Properties.Resources.resources
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.exe
+C:\Users\admin\source\repos\lb20\lb20\obj\Debug\lb20.pdb
